@@ -589,6 +589,12 @@
             "asOfVersion": "0.18.0"
         },
         {
+            "libraryName": "react-native-modal",
+            "typingsPackageName": "react-native-modal",
+            "sourceRepoURL": "https://github.com/react-native-community/react-native-modal",
+            "asOfVersion": "4.1.1"
+        },
+        {
             "libraryName": "realm",
             "typingsPackageName": "realm",
             "sourceRepoURL": "https://github.com/realm/realm-js",
