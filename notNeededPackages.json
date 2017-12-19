@@ -589,6 +589,12 @@
             "asOfVersion": "0.18.0"
         },
         {
+            "libraryName": "react-native-goby",
+            "typingsPackageName": "react-native-goby",
+            "sourceRepoURL": "https://gitlab.com/MessageDream/react-native-goby",
+            "asOfVersion": "0.0.5"
+        },
+        {
             "libraryName": "realm",
             "typingsPackageName": "realm",
             "sourceRepoURL": "https://github.com/realm/realm-js",
