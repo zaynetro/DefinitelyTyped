@@ -709,6 +709,12 @@
             "asOfVersion": "1.1.2"
         },
         {
+            "libraryName": "source-map",
+            "typingsPackageName": "source-map",
+            "sourceRepoURL": "https://github.com/mozilla/source-map",
+            "asOfVersion": "0.5.7"
+        },
+        {
             "libraryName": "spotify-web-api-js",
             "typingsPackageName": "spotify-web-api-js",
             "sourceRepoURL": "https://github.com/JMPerez/spotify-web-api-js",
