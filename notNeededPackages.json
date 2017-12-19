@@ -733,6 +733,12 @@
             "asOfVersion": "2.0.2"
         },
         {
+            "libraryName": "survey-knockout",
+            "typingsPackageName": "survey-knockout",
+            "sourceRepoURL": "http://surveyjs.org/",
+            "asOfVersion": "0.10.0"
+        },
+        {
             "libraryName": "svg.js",
             "typingsPackageName": "svg.js",
             "sourceRepoURL": "http://www.svgjs.com/",
