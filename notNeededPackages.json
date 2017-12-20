@@ -853,6 +853,12 @@
             "asOfVersion": "1.1.2"
         },
         {
+            "libraryName": "UUID.js",
+            "typingsPackageName": "uuidjs",
+            "sourceRepoURL": "https://github.com/LiosK/UUID.js",
+            "asOfVersion": "3.6.0"
+        },
+        {
             "libraryName": "vso-node-api",
             "typingsPackageName": "vso-node-api",
             "sourceRepoURL": "https://github.com/Microsoft/vso-node-api",
