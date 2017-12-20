@@ -457,6 +457,12 @@
             "asOfVersion": "0.8.1"
         },
         {
+            "libraryName": "microgears",
+            "typingsPackageName": "microgears",
+            "sourceRepoURL": "https://github.com/marcusdb/microgears",
+            "asOfVersion": "4.0.5"
+        },
+        {
             "libraryName": "mobservable",
             "typingsPackageName": "mobservable",
             "sourceRepoURL": "github.com/mweststrate/mobservable",
