@@ -121,6 +121,12 @@
             "asOfVersion": "0.0.31"
         },
         {
+            "libraryName": "bignumber.js",
+            "typingsPackageName": "bignumber.js",
+            "sourceRepoURL": "https://github.com/MikeMcl/bignumber.js/",
+            "asOfVersion": "4.0.3"
+        },
+        {
             "libraryName": "Bugsnag Browser",
             "typingsPackageName": "bugsnag-js",
             "sourceRepoURL": "https://github.com/bugsnag/bugsnag-js",
