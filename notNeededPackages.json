@@ -289,6 +289,12 @@
             "asOfVersion": "7.1.0"
         },
         {
+            "libraryName": "griddle-react",
+            "typingsPackageName": "griddle-react",
+            "sourceRepoURL": "https://github.com/griddlegriddle/griddle",
+            "asOfVersion": "1.3.0"
+        },
+        {
             "libraryName": "gulp-typescript",
             "typingsPackageName": "gulp-typescript",
             "sourceRepoURL": "https://github.com/ivogabe/gulp-typescript",
