@@ -295,6 +295,12 @@
             "asOfVersion": "2.13.0"
         },
         {
+            "libraryName": "handsontable",
+            "typingsPackageName": "handsontable",
+            "sourceRepoURL": "https://handsontable.com/",
+            "asOfVersion": "0.35.0"
+        },
+        {
             "libraryName": "Facebook's Immutable",
             "typingsPackageName": "immutable",
             "sourceRepoURL": "https://github.com/facebook/immutable-js",
