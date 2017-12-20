@@ -121,6 +121,12 @@
             "asOfVersion": "0.0.31"
         },
         {
+            "libraryName": "botvs",
+            "typingsPackageName": "botvs",
+            "sourceRepoURL": "https://www.botvs.com/",
+            "asOfVersion": "1.0.0"
+        },
+        {
             "libraryName": "Bugsnag Browser",
             "typingsPackageName": "bugsnag-js",
             "sourceRepoURL": "https://github.com/bugsnag/bugsnag-js",
