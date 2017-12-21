@@ -937,6 +937,12 @@
             "asOfVersion": "3.2.0"
         },
         {
+            "libraryName": "wolfy87-eventemitter",
+            "typingsPackageName": "wolfy87-eventemitter",
+            "sourceRepoURL": "https://github.com/Wolfy87/EventEmitter",
+            "asOfVersion": "5.2.0"
+        },
+        {
             "libraryName": "x2js",
             "typingsPackageName": "x2js",
             "sourceRepoURL": "https://code.google.com/p/x2js/",
