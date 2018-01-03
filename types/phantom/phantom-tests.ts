@@ -19,6 +19,11 @@ phantom.create(["--web-security=no", "--ignore-ssl-errors=yes"]).then((ph) => {
     ph.createPage().then((page) => {
         console.log("Page created!");
 
+        page.on('onResourceRequested', (res) => {
+          console.log('Requested url', res.url);
+          console.log('Response status', res.status, res.statusText);
+        });
+
         return page.open("http://www.google.com").then(function(status) {
             if (status == "success") {
                 console.log("Page is open!");

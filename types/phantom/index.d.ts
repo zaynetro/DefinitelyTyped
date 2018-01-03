@@ -39,6 +39,8 @@ export interface WebPage {
     addCookie(cookie: ICookie): Promise<boolean>;
     deleteCookie(cookieName: string): Promise<boolean>;
     clearCookies(): Promise<void>;
+
+    on(eventName: string, callback: (response: IWebPageResponse) => any): Promise<void>;
 }
 
 export interface ICookie {
@@ -57,4 +59,16 @@ export interface IPaperSizeOptions {
     format?: string;
     orientation?: string;
     margin?: any; // string | { top?: string; left?: string; bottom?: string; right?: string;  }
+}
+
+export interface IWebPageResponse {
+    id: number;
+    url: string;
+    time: Date;
+    headers: { [s:string]: string }[];
+    contentType: string;
+    redirectURL: string;
+    stage: string;
+    status: number;
+    statusText: string;
 }
